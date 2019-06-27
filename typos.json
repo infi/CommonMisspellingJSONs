@@ -1,0 +1,52 @@
+[
+    {
+        "typo": "dsicord",
+        "fix": "[d/D]iscord",
+        "comment": "It's in the app name, man!"
+    },
+    {
+        "typo": "mispell",
+        "fix": "misspell",
+        "comment": "Totally missed spelling class."
+    },
+    {
+        "typo": "jvaa",
+        "fix": "java",
+        "comment": "JvaaScript to Jvaa is like a craept to a cra."
+    },
+    {
+        "typo": "beggining",
+        "fix": "beginning",
+        "comment": "I'd rather beg."
+    },
+    {
+        "typo": "foward",
+        "fix": "forward",
+        "comment": "Thing's aren't going forward with that spelling."
+    },
+    {
+        "typo": "seperate",
+        "fix": "separate",
+        "comment": "Separate that word. Helps you remember it. Wow, something helpful on DCMB."
+    },
+    {
+        "typo": "alot",
+        "fix": "a lot",
+        "comment": "One lot = a lot. The original CMB made it obvious."
+    },
+    {
+        "typo": "reditt",
+        "fix": "reddit",
+        "comment": "u/CommonMisspellingBot would facepalm."
+    },
+    {
+        "typo": "exestence",
+        "fix": "existence",
+        "comment": "Executables."
+    },
+    {
+        "typo": "existance",
+        "fix": "existence",
+        "comment": "You: *exists*\nMe: **SPELL THAT RIGHT YOU S-**"
+    }
+]
